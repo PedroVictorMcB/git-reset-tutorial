@@ -1,1 +1,1 @@
-Continuing working on Card component
+Finished card component
